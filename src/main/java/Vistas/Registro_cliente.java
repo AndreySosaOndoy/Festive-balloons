@@ -1,5 +1,5 @@
 
-package com.mycompany.festiveballoons;
+package Vistas;
 public class Registro_cliente extends javax.swing.JPanel {
 
     public Registro_cliente() {

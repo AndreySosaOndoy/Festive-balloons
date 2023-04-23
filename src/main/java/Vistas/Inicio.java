@@ -1,5 +1,5 @@
 
-package com.mycompany.festiveballoons;
+package Vistas;
 
 public class Inicio extends javax.swing.JPanel {
 

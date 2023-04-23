@@ -1,5 +1,5 @@
 
-package com.mycompany.festiveballoons;
+package Vistas;
 public class Finalizar_compras extends javax.swing.JPanel {
 
     public Finalizar_compras() {

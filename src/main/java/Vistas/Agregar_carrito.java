@@ -1,5 +1,5 @@
 
-package com.mycompany.festiveballoons;
+package Vistas;
 public class Agregar_carrito extends javax.swing.JPanel {
 
     public Agregar_carrito() {

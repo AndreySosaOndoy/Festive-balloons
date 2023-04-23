@@ -11,5 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.festiveballoons.FestiveBalloons</exec.mainClass>
     </properties>
-    <name>Festive-balloons</name>
+    <name>FestiveBalloons</name>
 </project>
